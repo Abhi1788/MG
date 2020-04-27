@@ -26,11 +26,27 @@ h1{
   text-shadow: 3px 3px orange;
 }
 
+.Header-link{
+  margin-bottom: 19rem;
+  margin-left: 0.5rem;
+  display: inline-block;
+  text-decoration: none;
+}
 
+.Header-link-1{
+  margin-bottom: 19rem;
+  margin-left: 3rem;
+
+}
+
+.dummyTable{
+  width: 44rem;
+  height: 20rem;
+}
 /****************Image class**************************/
 .Image{
-  width: 300px;
-  height: 317px;
+  width: 18.75rem;
+  height: 19.8125rem;
   display: inline-block;
   position: relative;
 }
@@ -55,7 +71,7 @@ h1{
 
 .Table_orderPage
 {
-  margin-bottom: 146px;
+  margin-bottom: 9.1rem;
 
 }
 /******************div class***************************/
@@ -65,7 +81,7 @@ h1{
 
 .Middle{
   font-family: sans-serif;
-  padding:20px;
+  padding:1.25rem;
   /*line-height:2;*/
 }
 .Bottom{
@@ -82,7 +98,7 @@ h1{
 
 .footer-link{
   color: #FFFFFF;
-  margin: 10px 20px;
+  margin: 0.625rem 1.25rem;
   text-decoration: none;
 }
 
